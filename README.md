@@ -2,12 +2,6 @@
 
 This project classifies Iris flowers into three species (*Setosa*, *Versicolor*, and *Virginica*) based on sepal and petal measurements using the K-Nearest Neighbors (KNN) algorithm.
 
-## **Table of Contents**
-
-* [Project Overview](#project-overview)
-* [Steps Performed](#steps-performed)
-* [Technologies Used](#technologies-used)
-
 ## Project Overview
 The Iris dataset is a classic dataset in data science and machine learning.  
 This project demonstrates exploratory data analysis (EDA) and model training using Python.
